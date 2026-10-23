@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Khushi 👋
+Data scientist (M.S. Data Analytics, UCF) building classification, forecasting,
+and survival-analysis models in Python and R.
+
+**Featured work**
+- 🔥 [Wildfire Risk Survival Model] – Top 25% worldwide, WiDS Datathon 2026
+- 🏠 [California Housing Price Modeling] – Random forest, ~0.81 test R²
+- 🕸️ [Meme Diffusion Network Analysis] – Cascade and source analysis on SNAP MemeTracker
+
+**Tools:** Python · SQL · R · scikit-learn · scikit-survival · TensorFlow · BigQuery
+📫 [LinkedIn](https://linkedin.com/in/patel-khushi9) · khushipatell1946@gmail.com
 
 <!--
 **khuship0104/khuship0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
