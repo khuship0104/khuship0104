@@ -8,6 +8,7 @@ and survival-analysis models in Python and R.
 - 🕸️ [Meme Diffusion Network Analysis] – Cascade and source analysis on SNAP MemeTracker
 
 **Tools:** Python · SQL · R · scikit-learn · scikit-survival · TensorFlow · BigQuery
+
 📫 [LinkedIn](https://linkedin.com/in/patel-khushi9) · khushipatell1946@gmail.com
 
 <!--
